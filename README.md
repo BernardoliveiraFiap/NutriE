@@ -1,1 +1,1 @@
-# App Mobile para calcular Proteína
+# App Mobile protótipo para calcular Proteína
